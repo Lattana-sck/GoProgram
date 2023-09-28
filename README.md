@@ -33,7 +33,7 @@ La dApp doit être Dockerisée afin de faciliter son déploiement. Des volumes p
 
 Pour lancer le projet, suivez ces étapes :
 
-1. Clonez le dépôt Git : git clone <URL_DU_DÉPÔT_GIT>
+1. Clonez le dépôt Git : git clone https://github.com/Lattana-sck/GoProgram.git
 2. Naviguez vers le répertoire du projet : cd myGoProgram
 3. Remplissez le fichier .env convenablement.
 4. Construisez et lancez les conteneurs Docker : docker-compose up --build
